@@ -1,2 +1,3 @@
 # MY_PROJECTS
-programs in C/C++ language written by Myself
+Welcome to my archive.
+There are programs in C/C++ language written by Myself, with CAD models, which is also designed by myself.
