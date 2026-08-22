@@ -22,7 +22,7 @@ Inventor_works_Traffic_light_from_Team_Projects<br>
 </p>
 <br><br>
 FEA<br>
-이 파일에는 제가 설계한 3D 미니 신호등을 인벤터 내부 해석 기능 중 하나인 Stress Analysis 로 응력을 해본 과정 및 결과가 있습니다.
+이 파일에는 제가 설계한 3D 미니 신호등을 인벤터 내부 해석 기능 중 하나인 Stress Analysis 로 응력 해석을 해본 과정 및 결과가 있습니다.
 <p align="center">
   <img width="907" height="758" alt="Image" src="https://github.com/user-attachments/assets/3e67014d-9052-4fe3-bceb-32f94819d21f" />
 </p>
