@@ -1,38 +1,69 @@
-# MY\_PROJECTS  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white)
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-<br>
-포트폴리오 설명
-<br><br>
-2D\_CAD\_HAND\_WASHER   
-제가 AutoCAD로 설계한 스마트 핸드워셔는 제가 폴리텍 1학기 동안 같이 협업했던 팀프로젝트이기도 합니다. 저를 제외한 팀원들은 주로 실제 하드웨어를 조립하고 배선하였고 저는 옆에서 보조를 하며 어깨너머로 배웠습니다. CAD 파트는 제가 주로 설계를 한대신 팀원들이 피드백을 해주었습니다. <br>
+# 🛠️ MY PROJECTS
+
 <p align="center">
-  <img width="3508" height="2479" alt="Image" src="https://github.com/user-attachments/assets/80f3ffb1-8a84-4bf6-ae63-559b09fb127c" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white">
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white">
 </p>
-<br><br>
-Inventor_works_Traffic_light_from_Team_Projects<br>
-이 디렉토리에 있는 파일은 제가 설계한 3D 미니 신호등으로 모델링과 이에따른 2D 도면이 있습니다. 핸드워시와 마찬가지로 팀원들은 조립 및 제어 파트를 담당하였고 저는 그에 따라 3D프린터로 뽑을 하드웨어를 INVENTOR로 설계하였습니다.
-일단 먼저 신호등 틀에 끼워 넣을 램프와 스테핑 모터의 치수를 확인한 뒤 램프 및 모터 부터 디자인 한뒤에 그에 맞춰 신호등 틀을 설계하였습니다. 주로 2D로 먼저 스케치 한뒤에 EXTRUDE 기능을 사용하였습니다.
-중간에 솔리드 끼리 서로 종속이 되어 한 파트 솔리드를 수정하면 다른 면에서도 모양이 바뀌거나 아예 전체 모델링이 깨지는 현상을 마주 하였으나, 문제가 되는 부분은 그부분만 2D로 수정하고 필요하지 않거나 중복되는 스케치는 삭제함으로서 완벽하지는 않지만 제 기한내에 수정완료하여 발표하였습니다. 그 과정에서 구글 AI인 GEMINI에게 질문 및 피드백을 주고 받으며 해결하였습니다. <br>
+
 <p align="center">
-  <img width="1680" height="848" alt="Image" src="https://github.com/user-attachments/assets/00aa75c9-78b7-4c35-98eb-b1dadc18b7bf" />
-  <img width="1680" height="848" alt="Image" src="https://github.com/user-attachments/assets/daeb7795-cd69-4033-81ba-2eea2057a05c" />
+  <b>하드웨어 설계(CAD/3D Modeling) 및 C/C++ 시스템 프로그래밍 프로젝트 포트폴리오입니다.</b>
 </p>
-<br><br>
-FEA<br>
-이 파일에는 제가 설계한 3D 미니 신호등을 인벤터 내부 해석 기능 중 하나인 Stress Analysis 로 응력 해석을 해본 과정 및 결과가 있습니다.
+
+---
+
+## 🚰 2D CAD Smart Hand Washer
+> **AutoCAD 기반 스마트 핸드워셔 설계를 담당한 팀 프로젝트**
+
+폴리텍 과정 중 진행한 팀 프로젝트로, 팀원들이 하드웨어 조립 및 배선을 진행하는 동안 **전반적인 2D CAD 설계 및 도면화 작업**을 주도하였습니다. 팀원들과의 주기적인 디자인 피드백을 통해 실물 제작에 적합한 치수와 구조를 반영했습니다.
+
 <p align="center">
-  <img width="907" height="758" alt="Image" src="https://github.com/user-attachments/assets/3e67014d-9052-4fe3-bceb-32f94819d21f" />
+  <img src="https://github.com/user-attachments/assets/80f3ffb1-8a84-4bf6-ae63-559b09fb127c" style="max-width: 100%; height: auto;">
 </p>
-<br><br>
-C_CPP Projects <br>
-여기 있는 프로그램은 제가 직접 C++로 코딩한 것입니다.<br>
--Digit_Converter 프로그램은 2진수를 8진수 혹은 16진수로 바꾸어 표현할 수 있는 프로그램 입니다. <br>
--Polynomial_Calculus 는 제가 2024년 졸업하기 직전에 만든 프로젝트로 만드는데 3주 가량이 소요되었습니다. 변수가 1 개인 다항식(Polynomial)을 미분 및 적분하여 Gnuplot이라는 그래픽 소프트웨어로 보여주는 프로그램입니다. <br>
--Trigonometric_functions_calc는 기초적인 삼각함수를 미분 및 적분해 주는 프로그램입니다. <br> 
--Two_var_calculus  프로그램은 Polynomial\_Calculus와 비슷하지만 변수가 2개인 것으로, 삼차원 그래프를 띄워줍니다. <br>
+
+---
+
+## 🚦 Inventor Traffic Light Project
+> **3D 프린터 출력용 미니 신호등 메카니즘 설계 및 2D 도면화**
+
+팀원들의 제어/조립 파트 요구사항에 맞춰 **스테핑 모터 및 램프 규격을 선측정**한 후, 이를 탑재할 신호등 외형 하드웨어를 Autodesk Inventor로 설계했습니다. 2D 스케치 후 Extrude 기반으로 모델링을 진행했습니다.
+
 <p align="center">
- <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/da759546-5d3b-481e-8717-0871d580e368" />
+  <img src="https://github.com/user-attachments/assets/00aa75c9-78b7-4c35-98eb-b1dadc18b7bf" width="49%" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/daeb7795-cd69-4033-81ba-2eea2057a05c" width="49%" style="max-width: 100%; height: auto;">
+</p>
+
+<details>
+<summary><b>🔍 Trouble Shooting: 솔리드 종속성 및 스케치 꼬임 해결 (Click)</b></summary>
+
+* **문제 상황:** 설계 과정 중 솔리드 피처 간 종속성 문제로 인해, 한 파트를 수정하면 다른 면의 형상이 변형되거나 모델링이 전면 파손되는 현상 발생.
+* **해결 방법:** 문제가 발생하는 2D 스케치 단위로 원인을 추적하여 중복되거나 불필요한 스케치 구성을 삭제/정리하고 최소 단위로 재정의. AI 피드백을 적극 활용하여 기한 내 모델링 오류를 수정 완료하고 성공적으로 발표.
+</details>
+
+---
+
+## 🔬 Finite Element Analysis (FEA)
+> **Inventor Stress Analysis를 활용한 유효 응력 해석**
+
+직접 설계한 3D 미니 신호등 구조물에 대해 인벤터 내장 해석 툴인 **Stress Analysis(응력 해석)**를 수행하여 구조적 안정성과 하중 집중 구간을 검증한 과정입니다.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e67014d-9052-4fe3-bceb-32f94819d21f" width="60%" style="max-width: 100%; height: auto;">
+</p>
+
+---
+
+## 💻 C / C++ Numerical Programming Projects
+> **C/C++ 기반 진법 변환 및 미적분 그래프 출력 알고리즘 구현**
+
+| 프로젝트명 | 핵심 기능 및 상세 설명 |
+| :--- | :--- |
+| **Digit Converter** | 2진수 데이터를 입력받아 8진수 및 16진수로 직관적으로 변환 출력 |
+| **Polynomial Calculus** | 1변수 다항식의 미분/적분 계산 및 **Gnuplot** 스크립트 연동을 통한 그래픽 시각화 (3주 소요) |
+| **Trigonometric Calc** | 삼각함수의 기초적인 미분 및 적분 연산 처리 |
+| **Two Var Calculus** | 2변수 다항식 미적분 연산 및 3차원(3D) 수치 그래프 시각화 |
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da759546-5d3b-481e-8717-0871d580e368" style="max-width: 100%; height: auto;">
 </p>
