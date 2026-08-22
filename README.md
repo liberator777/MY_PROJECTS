@@ -21,6 +21,11 @@ Inventor_works_Traffic_light_from_Team_Projects<br>
   <img width="1680" height="848" alt="Image" src="https://github.com/user-attachments/assets/daeb7795-cd69-4033-81ba-2eea2057a05c" />
 </p>
 <br><br>
+FEA<br>
+이 파일에는 제가 설계한 3D 미니 신호등을 인벤터 내부 해석 기능 중 하나인 Stress Analysis 로 응력을 해본 과정 및 결과가 있습니다.
+<p align="center">
+</p>
+<br><br>
 C_CPP Projects <br>
 여기 있는 프로그램은 제가 직접 C++로 코딩한 것입니다.<br>
 -Digit_Converter 프로그램은 2진수를 8진수 혹은 16진수로 바꾸어 표현할 수 있는 프로그램 입니다. <br>
