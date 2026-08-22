@@ -18,7 +18,7 @@ Inventor\_works\_Traffic\_light\_from\_Team\_Projects<br>
 중간에 솔리드 끼리 서로 종속이 되어 한 파트 솔리드를 수정하면 다른 면에서도 모양이 바뀌거나 아예 전체 모델링이 깨지는 현상을 마주 하였으나, 문제가 되는 부분은 그부분만 2D로 수정하고 필요하지 않거나 중복되는 스케치는 삭제함으로서 완벽하지는 않지만 제 기한내에 수정완료하여 발표하였습니다. 그 과정에서 구글 AI인 GEMINI에게 질문 및 피드백을 주고 받으며 해결하였습니다. <br>
 <p align="center">
   <img width="1680" height="848" alt="Image" src="https://github.com/user-attachments/assets/00aa75c9-78b7-4c35-98eb-b1dadc18b7bf" />
-  <img width="1680" height="848" alt="Image" src="https://github.com/user-attachments/assets/daeb7795-cd69-4033-81ba-2eea2057a05c" />
+  <img width="1000" height="848" alt="Image" src="https://github.com/user-attachments/assets/daeb7795-cd69-4033-81ba-2eea2057a05c" />
 </p>
 <br><br>
 C\_CPP Projects <br>
