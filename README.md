@@ -27,4 +27,6 @@ C\_CPP Projects <br>
 \-Polynomial\_Calculus 는 제가 2024년 졸업하기 직전에 만든 프로젝트로 만드는데 3주 가량이 소요되었습니다. 변수가 1 개인 다항식(Polynomial)을 미분 및 적분하여 Gnuplot이라는 그래픽 소프트웨어로 보여주는 프로그램입니다. <br>
 \-Trigonometric\_functions\_calc는 기초적인 삼각함수를 미분 및 적분해 주는 프로그램입니다. <br> 
 \-Two\_var\_calculus  프로그램은 Polynomial\_Calculus와 비슷하지만 변수가 2개인 것으로, 삼차원 그래프를 띄워줍니다. <br>
-
+<p align="center">
+ <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/da759546-5d3b-481e-8717-0871d580e368" />
+</p>
