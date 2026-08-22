@@ -9,7 +9,7 @@
 2D\_CAD\_HAND\_WASHER   
 제가 AutoCAD로 설계한 스마트 핸드워셔는 제가 폴리텍 1학기 동안 같이 협업했던 팀프로젝트이기도 합니다. 저를 제외한 팀원들은 주로 실제 하드웨어를 조립하고 배선하였고 저는 옆에서 보조를 하며 어깨너머로 배웠습니다. CAD 파트는 제가 주로 설계를 한대신 팀원들이 피드백을 해주었습니다. <br>
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/80305841/639778751-782bc28a-d5a2-4c27-a71a-b5f36f926de8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODczNjU1MTAsIm5iZiI6MTc4NzM2NTIxMCwicGF0aCI6Ii84MDMwNTg0MS82Mzk3Nzg3NTEtNzgyYmMyOGEtZDVhMi00YzI3LWE3MWEtYjVmMzZmOTI2ZGU4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODIyVDAyMjAxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiMWZiMDI4YWEzNDExM2M4NTA4MDNlYzZjOGI2OGE1ZTMxOTYzZTI1YmVmZGNlNjAwZTJlNDNjOWJhYzdiM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.GnAgWlIlnnANf-eKPEj4pLz1jjLjvhb21D9I5sggUW8" width="50%">
+  <img src="" width="50%">
 </p>
 <br><br>
 Inventor\_works\_Traffic\_light\_from\_Team\_Projects<br>
