@@ -4,7 +4,8 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 <br>
-포트폴리오 설명  
+포트폴리오 설명
+<br><br>
 2D\_CAD\_HAND\_WASHER   
 제가 AutoCAD로 설계한 스마트 핸드워셔는 제가 폴리텍 1학기 동안 같이 협업했던 팀프로젝트이기도 합니다. 저를 제외한 팀원들은 주로 실제 하드웨어를 조립하고 배선하였고 저는 옆에서 보조를 하며 어깨너머로 배웠습니다. CAD 파트는 제가 주로 설계를 한대신 팀원들이 피드백을 해주었습니다.
 
