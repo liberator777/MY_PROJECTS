@@ -8,7 +8,7 @@
 <br><br>
 2D\_CAD\_HAND\_WASHER   
 제가 AutoCAD로 설계한 스마트 핸드워셔는 제가 폴리텍 1학기 동안 같이 협업했던 팀프로젝트이기도 합니다. 저를 제외한 팀원들은 주로 실제 하드웨어를 조립하고 배선하였고 저는 옆에서 보조를 하며 어깨너머로 배웠습니다. CAD 파트는 제가 주로 설계를 한대신 팀원들이 피드백을 해주었습니다. <br>
-<p align="right">
+<p align="center">
   <img src="https://github.com/liberator777/MY_PROJECTS/issues/2" width="80%">
 </p>
 <br><br>
