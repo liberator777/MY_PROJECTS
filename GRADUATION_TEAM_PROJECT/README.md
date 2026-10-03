@@ -50,7 +50,7 @@
 
 **[리프트 구동부 이미지]**
 
-> ※ 이미지 삽입
+> <img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/39073023-4c55-4368-b268-c0be9e7ee773" />
 
 ---
 
