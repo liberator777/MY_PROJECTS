@@ -39,8 +39,10 @@
 ### 4. 설계 부품 및 제작 결과
 
 **리프트 회전부**
-
 <!-- 여기에 리프트 회전부 CAD 이미지 삽입 -->
+<img width="4611" height="2231" alt="Image" src="https://github.com/user-attachments/assets/116fd4f9-d438-46a8-8ca4-4393c2cd706e" />
+<img width="4611" height="2231" alt="Image" src="https://github.com/user-attachments/assets/6d01ae0a-413c-4ec8-98ec-96ed51ac54c6" />
+<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/39073023-4c55-4368-b268-c0be9e7ee773" />
 
 **최종 적재함**
 
