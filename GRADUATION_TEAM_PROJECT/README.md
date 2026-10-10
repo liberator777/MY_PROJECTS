@@ -49,13 +49,17 @@
 > ※ 이미지 삽입
 
 **[리프트 구동부 이미지]**
-
+<img width="4611" height="2231" alt="Image" src="https://github.com/user-attachments/assets/116fd4f9-d438-46a8-8ca4-4393c2cd706e" />
 > <img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/39073023-4c55-4368-b268-c0be9e7ee773" />
 
 ---
 
 ## 3-2. 로봇 팔 (Robot Arm) & 3-3. 컨베이어 (Conveyor) & 3-4. 서보모터와 집게(Gripper)
-로봇 팔은 기존의 오므론 로봇을 사용하였고, 컨베이어 파트에서는 컨베이어 구동 기어의 반대 쪽 맨 끝 벨트 고정대을 디자인 하였습니다. 서보모터 및 집게 파트에서는 집게와 서보모터의 액추에이터를 연결시켜주는 판넬을 설계하였습니다. 
+로봇 팔은 기존의 오므론 로봇을 사용하였고, 컨베이어 파트에서는 컨베이어 구동 기어의 반대 쪽 맨 끝 벨트 고정대을 디자인 하였습니다. 서보모터 및 집게 파트에서는 집게와 서보모터의 액추에이터를 연결시켜주는 판넬(집게 고정대)을 설계하였습니다. </br>
+컨베이어 끝 벨트 고정대
+<img width="4611" height="2231" alt="Image" src="https://github.com/user-attachments/assets/a85edd59-dcd0-4452-bc57-d0690f5b643a" />
+집게 고정대
+<img width="4611" height="2231" alt="Image" src="https://github.com/user-attachments/assets/1e1c3073-6978-41e5-a733-884586b54b9b" />
 
 ---
 
@@ -67,7 +71,7 @@
 
 **[분류대 이미지]**
 
-> ※ 이미지 삽입
+> <img width="4611" height="2231" alt="Image" src="https://github.com/user-attachments/assets/3ff0d722-ab59-49dd-bc04-c43998b9f31a" />
 
 **[적재 상태 이미지]**
 
@@ -89,8 +93,6 @@
 | Gripper Holder  | 집게 장착        |
 | Sensor Holder   | 센서 고정        |
 | END_OF_CONVEYOR | 컨베이어 끝단 구조   |
-| Bridge Leg      | 장비 연결 및 지지   |
-| Leg             | 장비 하부 지지     |
 
 **[주요 부품 이미지]**
 
